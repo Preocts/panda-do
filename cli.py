@@ -20,8 +20,8 @@ how to use?
 import argparse
 import datetime
 import json
-import pathlib
 import os
+import pathlib
 import sys
 
 
